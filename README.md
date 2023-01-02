@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyomghtun&label=Profile%20views&color=0e75b6&style=flat" alt="phyomghtun" /> </p>
 
-- 🌱 I’m currently learning **Java, Korlin and Flutter**
+- 🌱 I’m currently learning **Java, Kotlin and Flutter**
 
 - 📫 How to reach me **phyomaunghtundev@gmail.com**
 
